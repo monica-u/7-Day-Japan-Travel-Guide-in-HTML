@@ -1,0 +1,31 @@
+.warning {
+    color: orange;
+}
+.warning.bad {
+    color:darkturquoise
+}
+#favorite {
+    color: green;
+}
+li, p {
+    color: rgb(27, 63, 219)
+}
+
+.homie[city] {
+    color: darkblue;
+}
+
+[city = "favcity"]{
+    color: darkgreen;
+}
+
+.parent-child > li {
+    color:maroon
+}
+
+.ancestor-descendant > li {
+    color: tan
+}
+.nice{
+    background-color: bisque;
+}
