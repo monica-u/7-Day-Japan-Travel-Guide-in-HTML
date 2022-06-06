@@ -12,3 +12,9 @@ $(document).ready(function() {
         location.href='https://c.tenor.com/LbVbdpTeMD0AAAAC/fooled-you-point.gif';
 
     })})
+
+$(document).ready(function() {
+        
+    $("button1").click(function(){
+    ("here it is").show();
+ })})
